@@ -1,0 +1,10 @@
+# Credenciales y configuraciones locales
+.env
+.clasp.json
+.clasprc.json
+
+# Dependencias y archivos temporales
+node_modules/
+.DS_Store
+Thumbs.db
+*.log
